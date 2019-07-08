@@ -1,9 +1,6 @@
 刚才怎么失败怎么多次
 第一次是这样的吗
 和比较难
-<<<<<<< HEAD
-bcvbcvb
-=======
 bcvbcvb
 dfdfg
->>>>>>> remotes/origin/dev
+
